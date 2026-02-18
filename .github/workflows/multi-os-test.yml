@@ -3,7 +3,7 @@ name: Multi-OS Testing - Artur Sharipov
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   test-ubuntu:
